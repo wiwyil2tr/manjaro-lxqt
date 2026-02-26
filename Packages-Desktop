@@ -1,0 +1,125 @@
+ 
+#-------------------------------------------------
+# EDITION BASE PACKAGES
+
+## gui tools
+gparted
+
+## webbrowser
+firefox
+
+## text edit and notes
+featherpad
+
+## edition theming and settings
+kvantum
+manjaro-icons
+papirus-icon-theme
+papirus-maia-icon-theme
+ttf-fira-code
+ttf-fira-mono
+ttf-fira-sans
+manjaro-wallpapers-by-lunix-manjaro
+## office
+mupdf
+libreoffice-still
+lximage-qt
+
+## fonts
+ttf-dejavu
+
+## filemanager
+gvfs
+pcmanfm-qt
+udiskie
+udisks2
+
+## Terminal
+qterminal
+
+## basic utilities
+dmidecode
+htop
+inxi
+micro
+numlockx
+powertop
+xclip
+xsel
+
+## network
+firewalld
+network-manager-applet
+networkmanager-openvpn
+networkmanager-qt
+openssh
+
+## core
+lxqt-about
+lxqt-admin
+lxqt-archiver
+lxqt-config
+lxqt-globalkeys
+lxqt-notificationd
+lxqt-openssh-askpass
+lxqt-panel
+lxqt-policykit
+lxqt-powermanagement
+lxqt-qtplugin
+lxqt-runner
+lxqt-sudo
+python-pyqt5
+swayidle
+lxqt-wayland-session
+swaylock
+## DISPLAY MANAGER
+sddm
+oxygen
+oxygen-cursors
+oxygen-sounds
+## ALSA
+alsa-utils
+alsa-firmware
+pavucontrol-qt
+wireplumber
+sof-firmware
+
+## settings manager
+manjaro-hello
+
+## system icons
+adwaita-icon-theme
+gnome-themes-extra
+hicolor-icon-theme
+
+## system fonts
+freetype2
+ttf-dejavu
+wqy-zenhei
+fcitx5
+fcitx5-configtool
+fcitx5-chinese-addons
+## system
+accountsservice
+gnome-keyring
+perl-file-mimeinfo
+polkit
+python-pyxdg
+squashfs-tools
+xdg-user-dirs
+xdg-user-dirs-gtk
+xdg-desktop-portal-lxqt
+xdg-utils
+zlib
+
+## labwc
+labwc
+## Xorg drivers
+xf86-input-evdev
+xf86-input-libinput
+xf86-input-vmmouse
+xf86-video-amdgpu
+xf86-video-dummy
+xf86-video-fbdev
+xf86-video-nouveau
+xf86-video-vesa
