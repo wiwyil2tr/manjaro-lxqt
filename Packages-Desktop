@@ -75,7 +75,6 @@ swaylock
 ## DISPLAY MANAGER
 sddm
 oxygen
-oxygen-cursors
 oxygen-sounds
 ## ALSA
 alsa-utils
